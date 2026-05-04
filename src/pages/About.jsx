@@ -20,11 +20,11 @@ const team = [
     initials: 'AA',
   },
   {
-    name: 'Operations Manager',
+    name: 'Zain Haider',
     role: 'Operational Manager',
     phone: '651-780-7965',
     bio: 'Leading day-to-day operational excellence at IJARA, our Operations Manager ensures every load is dispatched with precision, every driver is supported, and every client receives the highest standard of service.',
-    initials: 'OM',
+    initials: 'ZH',
   },
 ]
 
